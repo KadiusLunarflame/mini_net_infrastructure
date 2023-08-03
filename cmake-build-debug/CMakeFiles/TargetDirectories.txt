@@ -1,3 +1,3 @@
-/home/kadius/CLionProjects/mini_net_infrastructure/cmake-build-debug/CMakeFiles/mini_net_infrastructure.dir
-/home/kadius/CLionProjects/mini_net_infrastructure/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kadius/CLionProjects/mini_net_infrastructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kadius/Desktop/git/mini_net_infrastructure/cmake-build-debug/CMakeFiles/mini_net_infrastructure.dir
+/home/kadius/Desktop/git/mini_net_infrastructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kadius/Desktop/git/mini_net_infrastructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
