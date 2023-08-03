@@ -1,0 +1,4 @@
+/home/kadius/CLionProjects/mini_tcp_client/cmake-build-debug/CMakeFiles/FSM.dir
+/home/kadius/CLionProjects/mini_tcp_client/cmake-build-debug/CMakeFiles/mini_tcp_client.dir
+/home/kadius/CLionProjects/mini_tcp_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kadius/CLionProjects/mini_tcp_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
